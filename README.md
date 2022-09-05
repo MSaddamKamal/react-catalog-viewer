@@ -1,5 +1,5 @@
 # React: Catalog Viewer
-
+![](https://raw.githubusercontent.com/MSaddamKamal/react-catalog-viewer/main/demo.gif)
 The application has 2 components:
 
 *   The Viewer component, which displays the selected product in a large size.
